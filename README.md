@@ -4,4 +4,4 @@ FlexVPN: Hub-Spoke OpenVPN system with built-in PKI and deploy scripts and centr
 
 ## (prelimeray) Architecture diagram
 
-[doc/img/JDG-FlexVPN--High-Level-Design-v1.1-Arch.png]()
+![JDG-FlexVPN--High-Level-Design-v1.1-Arch.png](/doc/img/JDG-FlexVPN--High-Level-Design-v1.1-Arch.png)
